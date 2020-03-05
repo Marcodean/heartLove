@@ -29,17 +29,3 @@ span {
     filter: hue-rotate(720deg);
   }
 }
-h1{
-    text-align: center;
-}
-
-summary{
-    color: aqua;
-}
-#lol{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    color: aqua;
-}
